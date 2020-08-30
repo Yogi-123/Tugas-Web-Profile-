@@ -1,0 +1,19 @@
+.section1 {
+    padding: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(114, 175, 175);
+}
+.section2 {
+    margin: 200px;
+}
+
+.footer {
+    background-color: rgb(111, 180, 180);
+}
+.gambarAtas {
+    border-radius: 5%;
+}
+.content1 {
+    padding: 20px;
+}
